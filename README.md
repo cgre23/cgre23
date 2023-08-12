@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Christian <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
+
+## I'm a Data Scientist, Machine Learning Engineer and a Researcher!!
+ I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
+
+- 🔭 I’m currently working on the application of machine learning in virtual diagnostics for the European XFEL  
+- 🌱 I’m currently learning Deep learning techniques
+- 👯 I’m looking for new opportunities to apply my machine learning skills
+- 💬 Ask me about Data Science, Computer Vision, Machine Learning 
+- 📫 How to reach me: chrisgre23@gmail.com
+- 🥅 2023 Goals: Contribute more to Machine learning / Data science  Open Source projects.
+
+
+
+[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgre23&show_icons=true&theme=radical)](https://github.com/cgre23/github-readme-stats)
+
+### Languages and Tools:
+
+
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" />
+
+
+<img align="left" alt="Terminal" width="110px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+<img align="left" alt="Terminal" width="100px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+
+
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
