@@ -40,4 +40,4 @@
 
 #### Top Languages:  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgre23&layout=compact)](https://github.com/cgre23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgre23&layout=compact)]
