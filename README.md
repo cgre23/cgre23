@@ -1,19 +1,6 @@
-### Hi there, I'm Christian <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-
-
-## I'm a Data Scientist, Machine Learning Engineer and a Researcher!!
- I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
-
-- 🔭 I’m currently working on the application of machine learning in virtual diagnostics for the European XFEL  
-- 🌱 I’m currently learning Deep learning techniques
-- 👯 I’m looking for new opportunities to apply my machine learning skills
-- 💬 Ask me about Data Science, Computer Vision, Machine Learning 
-- 📫 How to reach me: chrisgre23@gmail.com
-- 🥅 2024 Goals: Contribute more to Machine learning / Data science  Open Source projects.
-
 <p align="center">
 <a href="https://github.com/cgre23">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Christian+Grech;Researcher+%7C+Data+Scientist+%7C+Software+Engineer;AI+%7C+NLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=800&height=90&lines=Christian+Grech;Researcher+%7C+Data+Scientist+%7C+Software+Engineer;AI+%7C+NLP" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -31,14 +18,24 @@
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 
-<!-- <a href="https://pypi.org/user/drkostas/">
-    <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
-</a> -->
-
 <br/> 
 <a href="https://github.com/cgre23">
     <img src="https://github-stats-alpha.vercel.app/api?username=cgre23&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+
+
+
+## I'm a Data Scientist, Machine Learning Engineer and a Researcher!!
+ I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
+
+- 🔭 I’m currently working on the application of machine learning in virtual diagnostics for the European XFEL  
+- 🌱 I’m currently learning Deep learning techniques
+- 👯 I’m looking for new opportunities to apply my machine learning skills
+- 💬 Ask me about Data Science, Computer Vision, Machine Learning 
+- 📫 How to reach me: chrisgre23@gmail.com
+- 🥅 2024 Goals: Contribute more to Machine learning / Data science  Open Source projects.
+
+
 
 
 
