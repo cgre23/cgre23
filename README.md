@@ -18,7 +18,7 @@
 <br/>
 
 <a href="https://cgre23.github.io">
-    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-cgre23-red?style=flat-square">
 </a>  
 
 <a href="https://www.linkedin.com/in/christian-grech-phd-77650897">
