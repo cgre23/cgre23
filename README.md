@@ -36,7 +36,8 @@
 - 🥅 2024 Goals: Contribute more to Machine learning / Data science  Open Source projects.
 
 
-### 🖥️ Open-Source Projects
+### 🖥️ Latest Open-Source Projects
+
 <table>
 <tr><th>Machine Learning NLP </th></tr>
 <tr><td>
@@ -45,9 +46,9 @@
 |--|--|
 | [Retrieval-Augmented-Generation---LLAMA]([https://github.com/drkostas/Minecraft-AI](https://github.com/cgre23/Retrieval-Augmented-Generation---LLAMA)) | OpenAI API, Python, Langchain|
 
-
 </td></tr> </table>
 
+<br>
 
 ### Languages and Tools:
 
