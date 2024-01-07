@@ -42,7 +42,7 @@
 <tr><td>
 
 |Title | Technologies|
-|--|--|--|
+|--|--|
 | [Retrieval-Augmented-Generation---LLAMA]([https://github.com/drkostas/Minecraft-AI](https://github.com/cgre23/Retrieval-Augmented-Generation---LLAMA)) | OpenAI API, Python, Langchain|
 
 
