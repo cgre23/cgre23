@@ -44,10 +44,11 @@
 
 |Title | Technologies|
 |--|--|
-| [Retrieval-Augmented-Generation---LLAMA](https://github.com/cgre23/Retrieval-Augmented-Generation---LLAMA) | OpenAI API, Python, Langchain|
+| [Retrieva Augmented Generation LLAMA](https://github.com/cgre23/Retrieval-Augmented-Generation---LLAMA) | OpenAI API, Python, Langchain|
+| [Hierarchical Sorting of Legal Documents using NLP and Classifiers](https://github.com/cgre23/Hierarchical-Sorting-Legal-Documents-using-NLP) | Python, Scikit-Learn, Discriminative AI, NLP|
 
 </td></tr> </table>
-
+https://github.com/cgre23/Hierarchical-Sorting-Legal-Documents-using-NLP
 <br>
 
 ### Languages and Tools:
