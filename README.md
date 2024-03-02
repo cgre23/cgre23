@@ -35,6 +35,8 @@
 - 📫 How to reach me: chrisgre23@gmail.com
 - 🥅 2024 Goals: Contribute more to Machine learning / Data science  Open Source projects.
 
+- Check my latest [Kaggle notebook](https://www.kaggle.com/code/antimattermatters/using-xgboost-to-predict-supply-downtime) focusing on **time-series forecasting** where I use lagged features and Classifiers to predict supply downtime.
+
 
 ### 🖥️ Latest Open-Source Projects
 
