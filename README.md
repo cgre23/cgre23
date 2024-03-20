@@ -35,7 +35,7 @@
 - 📫 How to reach me: chrisgre23@gmail.com
 - 🥅 2024 Goals: Contribute more to Machine learning / Data science  Open Source projects.
 
-- Check my [Medium blog](https://christiangreech.medium.com) for articles and guides on the open source projects I worked on.
+- Check my [Medium blog](https://christiangrech.medium.com) for articles and guides on the open source projects I worked on.
 
 
 ### 🖥️ Latest Open-Source Projects
